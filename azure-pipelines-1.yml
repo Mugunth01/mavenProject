@@ -1,0 +1,5 @@
+
+pool: Local
+
+steps:
+- script: echo hello
